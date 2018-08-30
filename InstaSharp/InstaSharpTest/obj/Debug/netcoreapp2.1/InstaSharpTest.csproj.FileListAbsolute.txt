@@ -1,0 +1,14 @@
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\obj\Debug\netcoreapp2.1\InstaSharpTest.csprojAssemblyReference.cache
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\obj\Debug\netcoreapp2.1\InstaSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\obj\Debug\netcoreapp2.1\InstaSharpTest.AssemblyInfoInputs.cache
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\obj\Debug\netcoreapp2.1\InstaSharpTest.AssemblyInfo.cs
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\bin\Debug\netcoreapp2.1\InstaSharpTest.deps.json
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\bin\Debug\netcoreapp2.1\InstaSharpTest.runtimeconfig.json
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\bin\Debug\netcoreapp2.1\InstaSharpTest.runtimeconfig.dev.json
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\bin\Debug\netcoreapp2.1\InstaSharpTest.dll
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\bin\Debug\netcoreapp2.1\InstaSharpTest.pdb
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\bin\Debug\netcoreapp2.1\InstaSharp.dll
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\bin\Debug\netcoreapp2.1\InstaSharp.pdb
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\obj\Debug\netcoreapp2.1\InstaSharpTest.csproj.CopyComplete
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\obj\Debug\netcoreapp2.1\InstaSharpTest.dll
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharpTest\obj\Debug\netcoreapp2.1\InstaSharpTest.pdb

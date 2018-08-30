@@ -1,0 +1,9 @@
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\bin\Debug\netcoreapp2.1\InstaSharp.deps.json
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\bin\Debug\netcoreapp2.1\InstaSharp.dll
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\obj\Debug\netcoreapp2.1\InstaSharp.csproj.CoreCompileInputs.cache
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\obj\Debug\netcoreapp2.1\InstaSharp.AssemblyInfoInputs.cache
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\obj\Debug\netcoreapp2.1\InstaSharp.AssemblyInfo.cs
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\bin\Debug\netcoreapp2.1\InstaSharp.pdb
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\obj\Debug\netcoreapp2.1\InstaSharp.dll
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\obj\Debug\netcoreapp2.1\InstaSharp.pdb
+C:\Users\revinfotech\source\repos\InstaSharp\InstaSharp\obj\Debug\netcoreapp2.1\InstaSharp.csprojAssemblyReference.cache
